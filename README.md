@@ -20,5 +20,9 @@ I will be creating the simple todo app in each framework. I will also expand on 
 <strong>Notes</strong></br>
 
 <strong>React:</strong> 
+</br> Developed by Meta 2013
 </br>Remember to cd into the correct directory for the app to run!
 </br> When setting up your react app use the correct app name.
+
+<strong>Angular</strong>
+</br>Developed by Google 2016
